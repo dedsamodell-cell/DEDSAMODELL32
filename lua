@@ -1,0 +1,7 @@
+  SWG_Private = true
+    SWG_Dev = false
+    SWG_Version = "free"
+    SWG_Title = 'dedsamodell.free / https://t.me/dedsamodellv5'
+    SWG_ShortName = 'free'
+    SWG_FullName = 'ts'
+    SWG_FFA = false
